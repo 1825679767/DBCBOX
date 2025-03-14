@@ -1,0 +1,17 @@
+E:\DBC-Box\BoxDBC\bin\Release\DBC编辑器.exe
+E:\DBC-Box\BoxDBC\bin\Release\DBC编辑器.pdb
+E:\DBC-Box\BoxDBC\bin\Release\DSkin.Design.dll
+E:\DBC-Box\BoxDBC\bin\Release\DSkin.dll
+E:\DBC-Box\BoxDBC\bin\Release\DSkin.xml
+E:\DBC-Box\BoxDBC\obj\Release\BoxDBC.csproj.AssemblyReference.cache
+E:\DBC-Box\BoxDBC\obj\Release\BoxDBC.DoMessageBox.resources
+E:\DBC-Box\BoxDBC\obj\Release\BoxDBC.FileForm.resources
+E:\DBC-Box\BoxDBC\obj\Release\BoxDBC.LoadingForm.resources
+E:\DBC-Box\BoxDBC\obj\Release\BoxDBC.MainForm.resources
+E:\DBC-Box\BoxDBC\obj\Release\BoxDBC.Properties.Resources.resources
+E:\DBC-Box\BoxDBC\obj\Release\BoxDBC.Template.TabItemTemplate.resources
+E:\DBC-Box\BoxDBC\obj\Release\BoxDBC.csproj.GenerateResource.cache
+E:\DBC-Box\BoxDBC\obj\Release\BoxDBC.csproj.CoreCompileInputs.cache
+E:\DBC-Box\BoxDBC\obj\Release\BoxDBC.csproj.CopyComplete
+E:\DBC-Box\BoxDBC\obj\Release\DBC编辑器.exe
+E:\DBC-Box\BoxDBC\obj\Release\DBC编辑器.pdb
